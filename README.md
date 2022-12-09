@@ -17,3 +17,6 @@ Root:7 olarak ele alırsak.
                               / \            \
                              /   \            \
                             0     2            4
+
+
+www.patika.dev
